@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysyschoi&layout=compact)](https://github.com/ysyschoi/ysyschoi)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysyschoi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysyschoi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)(https://github.com/ysyschoi/ysyschoi)
