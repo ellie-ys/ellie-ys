@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qwac)](https://github.com/ysyschoi/ysyschoi)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qwac)](https://github.com/mazassumnida/mazassumnida)
 
 <!--
 **ysyschoi/ysyschoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysyschoi&layout=compact)](https://github.com/ysyschoi/ysyschoi)
 
