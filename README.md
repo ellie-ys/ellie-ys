@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
     [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qwac)](https://github.com/mazassumnida/mazassumnida)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ipatlove7)](https://github.com/mazassumnida/mazassumnida)
 
 <!--
 **ysyschoi/ysyschoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
