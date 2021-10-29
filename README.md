@@ -18,9 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysyschoi&layout=compact)](https://github.com/ysyschoi/ysyschoi)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysyschoi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
