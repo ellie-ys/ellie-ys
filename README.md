@@ -4,7 +4,7 @@
 
 <div align=center><h3> Life is a Team Sport.</h3></div>
 
-<div align=center>배려 & 즐거움 & 목표 & 탁월함 & 신뢰</div>
+<div align=center></div>
 </br></br>
 
 
