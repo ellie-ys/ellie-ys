@@ -41,7 +41,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
 
 <!--
 **ellie-ys/ellie-ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
