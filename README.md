@@ -32,7 +32,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-424242?style=flat-square&logo=SQLite&logoColor=177FC4"/><img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 
-<!--   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>  -->
+<!-- Love, Girls in tech & WWCode   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>  -->
 
 
 
