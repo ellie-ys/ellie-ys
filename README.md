@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Ellie Youn-sung.
 - 🌱 I’m currently learning ... `Web`
-- 📫 How to reach me ...  <a href="mailto:dev.ellie7@gmail.com"></a> <a href="https://ellie-ys.oopy.io" target="_blank"/>
+- 📫 How to reach me ...  <a href="mailto:dev.ellie7@gmail.com"></a> <a href="https://www.notion.so/ysyschoi/Younsung-Choi-ab9dddd3f1fe43b599d9f18db3faa355" target="_blank"/>
  <img src="https://img.shields.io/badge/Notion-424242?style=flat-square&logo=Notion&logoColor=white"/><img
 src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ellie7@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
